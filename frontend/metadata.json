@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyser",
+  "description": "ATS Resume Analysis and High-Precision Compatibility Scoring built with React and Gemini-3.5-flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
